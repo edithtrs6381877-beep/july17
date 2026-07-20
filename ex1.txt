@@ -2,4 +2,3 @@ java
 python
 c++
 ranjith
-riya
